@@ -1,8 +1,8 @@
 {
   "name": "restserver",
   "version": "1.0.0",
-  "engines" : {
-    "node" : "11.0.0"
+  "engines": {
+    "node": "11.0.0"
   },
   "description": "rest",
   "main": "app.js",
